@@ -2,7 +2,11 @@
 
 World Cup Oracle is a production-style Streamlit application that predicts outcomes for international football matches using historical FIFA match results, FIFA ranking timelines, recent team form, goal trends, head-to-head history, and tournament context.
 
-![Screenshot placeholder](assets/screenshot-placeholder.svg)
+<img width="1857" height="860" alt="image" src="https://github.com/user-attachments/assets/b9118f59-45b1-42ab-a00d-3e79be9d19de" />
+<img width="1007" height="852" alt="image" src="https://github.com/user-attachments/assets/283b843d-316f-4c37-ac0a-4d63b1b7aa32" />
+<img width="1027" height="708" alt="image" src="https://github.com/user-attachments/assets/803a5551-e581-4d8d-bdb6-d05089d88356" />
+
+
 
 ## Features
 
